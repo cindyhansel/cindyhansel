@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @cindyhansel
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning tools for data analytics
-- 💞️ I’m looking to collaborate on most things
-- 📫 How to reach me
+This GitHub repository showcases projects I developed as part of my Data Analytics & Visualization Certificate program at the University of Minnesota. The projects demonstrate skills in Python, SQL, data cleaning, machine learning, and data visualization.
+
+Included is a project brought in from my non-profit experience from Cradle 2 Career, and a machine learning project on NFL conversion prediction
+
 
 <!---
 cindyhansel/cindyhansel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
