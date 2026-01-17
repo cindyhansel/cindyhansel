@@ -1,6 +1,6 @@
 This GitHub repository showcases projects I developed as part of my Data Analytics & Visualization Certificate program at the University of Minnesota. This portfolio demonstrate skills in Python, SQL, ETL, machine learning, javascript, api, and data visualization, among other data analytics skills.
 
-Included is a project brought in from my non-profit experience from Cradle 2 Career, and a machine learning project on NFL conversion prediction
+Included are projects brought in from my non-profit experience from Cradle 2 Career, and a machine learning project on NFL 1st down conversion prediction
 
 
 <!---
